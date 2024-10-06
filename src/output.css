@@ -907,6 +907,10 @@ video {
   gap: 0.5rem;
 }
 
+.gap-19{
+  gap: 4rem;
+}
+
 .gap-20 {
   gap: 5rem;
 }
